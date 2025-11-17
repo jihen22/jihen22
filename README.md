@@ -1,46 +1,111 @@
 <div align="center">
 
-# 🚀 Jihen Messaoud
+# Hi 👋, I'm Jihen
 
-### Full-Stack AI Developer | Cloud Solutions Architect
+### 🚀 Full-Stack AI Developer | ☁️ Cloud Solutions Architect | 🤖 Microservices Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=700&lines=Microservices+%7C+AI%2FML+%7C+Cloud;Angular+%2B+Spring+Boot+%2B+Azure;Enterprise+Scalable+Systems" alt="Typing SVG" />
+<img src="https://media.tenor.com/uF7WQnFqGnsAAAAi/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" width="350"/>
 
-<img src="https://media.tenor.com/uF7WQnFqGnsAAAAi/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif" width="400"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=jihen22&label=Profile%20Views&color=9D4EDD&style=for-the-badge)](https://github.com/jihen22)
+<img src="https://komarev.com/ghpvc/?username=jihen22&label=Profile%20views&color=9D4EDD&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+### 🌟 About Me
+- 🎓 **Master's Graduate** in Software Engineering @ ISIMM
+- 🔭 Currently building **AI-powered microservices** with NLP & ML
+- 🌱 Learning **Advanced Kubernetes | Azure Cloud Architecture | AI Integration**
+- 👯 Looking to collaborate on **Microservices, AI/ML, Cloud-Native projects**
+- 💬 Ask me about **Angular, Spring Boot, Docker, Azure, AI/ML, Microservices**
+- 📫 Reach me at: **jihenmessaoud992@gmail.com**
 
-<div align="center">
+---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=7209B7)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=B5179E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=C77DFF)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=9D4EDD)
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/jihenme" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://github.com/jihen22" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+  </a>
+</p>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&color=7209B7)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=9D4EDD)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&color=B5179E)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=C77DFF)
+---
 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=9D4EDD)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=B5179E)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&color=7209B7)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=C77DFF)
+## 💻 My Tech Stack
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=9D4EDD)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&color=B5179E)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&color=7209B7)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&color=C77DFF)
+<details>
+<summary>🖥️ Languages</summary>
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Specialization:** Microservices Architecture • AI/ML Integration • Cloud-Native Development • CI/CD Automation
+</details>
+
+<details>
+<summary>🎨 Frontend Development</summary>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+</details>
+
+<details>
+<summary>⚙️ Backend & Databases</summary>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</details>
+
+<details>
+<summary>🤖 AI & Machine Learning</summary>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+</details>
+
+<details>
+<summary>☁️ DevOps & Cloud</summary>
+
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<details>
+<summary>📊 Monitoring & Tools</summary>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-429539?style=for-the-badge&logo=karma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
 
 ---
 
@@ -51,28 +116,17 @@
 <td width="50%" valign="top">
 
 ### 🤖 [AiLine Pro](https://github.com/jihen22/AilinePlateform)
-AI-powered microservices platform using NLP & ML for organizational culture analysis
+AI-powered microservices platform using NLP & ML for organizational culture analysis with real-time dashboards
 
-**Tech:** Angular • Spring Boot • PostgreSQL • Azure • Docker • NLP • ML • Elasticsearch
-
-**Architecture:** 
-- Microservices with DDD
-- Real-time analytics dashboards
-- Azure cloud deployment
-- Automated CI/CD pipeline
+**Stack:** Angular, Spring Boot, PostgreSQL, Azure, Docker, NLP, ML, Elasticsearch
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ [Laravel CRUD Generator](https://github.com/jihen22/CRUDGenerator)
-Automated code generator creating complete CRUD operations from database schemas
+Intelligent code generator that auto-generates CRUD operations from database schemas - **60% faster setup**
 
-**Tech:** Laravel • PHP • MySQL • Bootstrap
-
-**Impact:**
-- 60% faster database setup
-- Auto-generates models, controllers, views
-- Eliminated repetitive coding tasks
+**Stack:** Laravel, PHP, MySQL, Bootstrap
 
 </td>
 </tr>
@@ -80,27 +134,17 @@ Automated code generator creating complete CRUD operations from database schemas
 <td width="50%" valign="top">
 
 ### 🏗️ [DevOps Pipeline](https://github.com/jihen22/Automated-MonetaryManagement-DevOps-Pipeline)
-Full CI/CD automation with multi-stage testing and zero-downtime deployment
+Full CI/CD automation with multi-stage testing, security scanning, and zero-downtime deployment
 
-**Tech:** Java • Jenkins • Docker • CI/CD
-
-**Features:**
-- Automated testing at every stage
-- Security scanning & quality gates
-- Blue-green deployment
+**Stack:** Java, Jenkins, Docker, CI/CD
 
 </td>
 <td width="50%" valign="top">
 
 ### 👥 [Employee Manager](https://github.com/jihen22/employeemanagerFront)
-Enterprise full-stack system with real-time updates and comprehensive testing
+Enterprise full-stack system with real-time updates, RESTful APIs, and comprehensive testing suite
 
-**Tech:** Angular • Spring Boot • MySQL • WebSocket • Karma
-
-**Capabilities:**
-- RESTful API architecture
-- Real-time synchronization
-- JWT authentication
+**Stack:** Angular, Spring Boot, MySQL, WebSocket, Karma
 
 </td>
 </tr>
@@ -110,56 +154,24 @@ Enterprise full-stack system with real-time updates and comprehensive testing
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jihen22&show_icons=true&theme=radical&bg_color=0d1117&title_color=9D4EDD&icon_color=C77DFF&text_color=E0AAFF&border_color=7209B7&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jihen22&theme=radical&background=0d1117&ring=9D4EDD&fire=C77DFF&currStreakLabel=E0AAFF&border=7209B7&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jihen22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihen22&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
----
-
-## 🏆 Certifications
-
-<table align="center">
-<tr>
-<td><b>🤖 AI Solutions Developer</b></td>
-<td>OpenAI Academy</td>
-<td><b>☁️ Professional Cloud Architect</b></td>
-<td>CloudSkills Institute</td>
-</tr>
-<tr>
-<td><b>🔶 AWS Cloud Practitioner</b></td>
-<td>KodeKloud</td>
-<td><b>🐳 Docker & Kubernetes</b></td>
-<td>KodeKloud</td>
-</tr>
-<tr>
-<td><b>🔷 Azure AI Fundamentals</b></td>
-<td>Microsoft</td>
-<td><b>🔄 Scrum Fundamentals</b></td>
-<td>SCRUMstudy</td>
-</tr>
-</table>
-
----
-
-## 🤝 Let's Build Together
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihenme)
-[![GitHub](https://img.shields.io/badge/GitHub-7209B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jihen22)
-[![Email](https://img.shields.io/badge/Email-B5179E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihenmessaoud992@gmail.com)
-
-**Open to collaboration on:** Microservices • AI/ML Applications • Cloud Architecture • DevOps Automation • Open Source
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jihen22&theme=tokyo-night" alt="Activity Graph"/>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
+### ✨ Thanks for visiting! Let's build something amazing together ✨
+
+**Open to collaboration on:** Microservices • AI/ML • Cloud Architecture • DevOps • Open Source
 
 </div>
